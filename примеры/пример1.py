@@ -1,6 +1,6 @@
 import math
 import math as mt
-from math import *  #импортирет все из модуля math
+from math import *  #импортирyет все из модуля math
 from math import sqrt
 
 
